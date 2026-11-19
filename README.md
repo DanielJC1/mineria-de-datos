@@ -1,1 +1,0 @@
-# mineria-de-datos
